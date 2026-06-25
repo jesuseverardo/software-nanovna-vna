@@ -1,0 +1,7 @@
+Autor: Jesús Everardo Díaz Alvarado
+Correo: jesuseverardo.diazalvarado@gmail.com
+Telegram: @jesuseverardo_diazalvarado
+
+Este software fue desarrollado por Jesús Everardo Díaz Alvarado como parte del proyecto terminal "Desarrollo de software para analizadores vectoriales de redes (NanoVNA)".
+
+Esta información se incluye para reconocer la autoría y proporcionar un medio de contacto para soporte o dudas.  Eliminar este archivo no elimina los derechos del autor.
