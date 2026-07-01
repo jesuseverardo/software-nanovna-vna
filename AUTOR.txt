@@ -1,6 +1,7 @@
 Autor: Jesús Everardo Díaz Alvarado
 Correo: jesuseverardo.diazalvarado@gmail.com
 Telegram: @jesuseverardo_diazalvarado
+Repositorio: https://github.com/jesuseverardo/software-nanovna-vna
 
 Este software fue desarrollado por Jesús Everardo Díaz Alvarado como parte del proyecto terminal "Desarrollo de software para analizadores vectoriales de redes (NanoVNA)".
 
